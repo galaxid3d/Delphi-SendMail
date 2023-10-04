@@ -12,3 +12,17 @@ It is also possible to save the password in the settings in encrypted form.
 
 > [!WARNING]\
 > The source code is encrypted - don't be alarmed, this is not a mistake, I did it on purpose. I don't want to publish the source code itself, but from these files you can understand the size of the project and its complexity.
+
+---
+
+Смысл программы: можно отправлять неограниченное количество писем.
+
+> [!NOTE]\
+> Вы должны ввести свой адрес электронной почты, пароль и адрес электронной почты получателя.
+>
+> Вводить тему письма, количество писем и текст письма необязательно, всё на ваше усмотрение.
+
+Также есть возможность сохранить пароль в настройках в зашифрованном виде.
+
+> [!WARNING]\
+> Исходный код зашифрован - не пугайтесь, это не ошибка, я сделал это специально. Сам исходный код публиковать не хочу, но по этим файлам можно понять размер проекта и его сложность.
